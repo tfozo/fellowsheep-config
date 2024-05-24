@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.selihom.app",
+      "sha256_cert_fingerprints": ["75E55EF51F14395CB1C59D561BEEA5CCF192E4C4F10D37ECEEEE5994D58687AF"]
+    }
+  }
+]
