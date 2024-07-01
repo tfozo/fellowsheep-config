@@ -1,2 +1,2 @@
-# selihom-config
-Selihom App Universal and App Link Setup
+# Fellowsheep-config
+Fellowsheep App Universal and App Link Setup
