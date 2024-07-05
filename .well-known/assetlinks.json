@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.fellowsheep.app",
-      "sha256_cert_fingerprints": ["75:E5:5E:F5:1F:14:39:5C:B1:C5:9D:56:1B:EE:A5:CC:F1:92:E4:C4:F1:0D:37:EC:EE:EE:59:94:D5:86:87:AF"]
+      "sha256_cert_fingerprints": ["75E55EF51F14395CB1C59D561BEEA5CCF192E4C4F10D37ECEEEE5994D58687AF"]
     }
   }
 ]
